@@ -1,2 +1,38 @@
-# UTS20251-DEPOSIT-BANK-NASYWA
-Dokumentasi Tugas Mahasiswa TRKJ Mata Kuliah Pemrograman Fundamentals &amp; Automation (Python) TA 20251 atas nama Cut Qatrunada Nasywa Mahadewi, NPM: 2410017514008. Dosen Pengampu: Budi Sunaryo dan Fitri Safnita.
+# 🧮 TUGAS INDIVIDU STRUKTUR KONTROL PYTHON
+
+## 📋 Identitas
+- **Nama:** Cut Qatrunada Nasywa Mahadewi  
+- **NIM:** 2410017514008  
+- **Kelas:** [Isi Kelas kamu]  
+
+---
+
+## 💡 Studi Kasus
+Program ini mensimulasikan **Kalkulator Deposit Bank**, di mana pengguna dapat melakukan setoran uang dan melihat saldo akhir secara interaktif.  
+Program menggunakan struktur kontrol seperti **while loop**, **if-else**, dan **fungsi** untuk mengatur alur logika program.  
+Setiap setoran yang valid akan diakumulasikan menjadi total saldo, dan pengguna dapat memilih untuk melanjutkan atau keluar dari program melalui menu utama.
+
+---
+
+## ⚙️ Fitur Program
+- 💰 **Setor Uang:** Pengguna dapat memasukkan jumlah setoran, dengan validasi agar nilai harus lebih besar dari 0.  
+- 📊 **Cek Saldo:** Menampilkan total saldo yang sudah terkumpul dan memberikan pesan motivasi berdasarkan jumlah saldo.  
+- 🚪 **Keluar Program:** Mengakhiri program dengan menampilkan saldo akhir dan ucapan terima kasih.  
+
+---
+
+## 🧱 Teknik yang Digunakan
+- [x] **Input** → Mengambil data dari pengguna seperti nama dan jumlah setoran  
+- [x] **While Loop** → Untuk mengulang menu utama sampai pengguna memilih keluar  
+- [x] **Do-While Pattern** → Diimplementasikan pada proses validasi input setoran agar selalu meminta ulang jika tidak valid  
+- [ ] **For Loop** → Tidak digunakan secara langsung dalam program ini  
+- [x] **Nesting If** → Digunakan saat memeriksa kondisi saldo dan memberi pesan berbeda tergantung nilainya  
+
+---
+
+## 🖼️ Screenshot Output
+Tambahkan tangkapan layar hasil program di sini, misalnya:
+
+![Screenshot Program](screenshot_output.png)
+
+Contoh output terminal:
