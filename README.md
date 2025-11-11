@@ -31,8 +31,8 @@ Setiap setoran yang valid akan diakumulasikan menjadi total saldo, dan pengguna 
 ---
 
 ## 🖼️ Screenshot Output
-Tambahkan tangkapan layar hasil program di sini, misalnya:
-
-![Screenshot Program](screenshot_output.png)
 
 Contoh output terminal:
+
+<img width="376" height="179" alt="Screenshot 2025-11-11 155551" src="https://github.com/user-attachments/assets/3fe22336-0eac-4a45-a5a2-a69492bf3bf9" />
+
